@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+#heading{
+    text-decoration: dashed;
+    color: black;
+    background-color: aliceblue;
+}
+.paragraph{
+    background-color: pink;
+    color: blueviolet;
+}
